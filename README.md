@@ -14,12 +14,16 @@
 
 ## 👨‍💻 About
  
-I'm a Computer Science student at **HIT – Holon Institute of Technology**, in the honors program on an accelerated **B.Sc. + M.Sc.** track. Before university I served as a **combat team commander** in the IDF Artillery Corps, which taught me to lead a team and make decisions under pressure.
+I'm a **Computer Science student at HIT – Holon Institute of Technology**, in the honors program and on an accelerated **B.Sc. + M.Sc.** track. I was also recognized on the **Dean's List**.
+
+Before university, I served as a **combat team commander in the IDF Artillery Corps**. That experience shaped how I think about ownership, teamwork, and making decisions when the answer isn't obvious.
+
+I like building software that solves problems I actually care about: a vinyl collection I wanted to rediscover, a courtroom that exposes how AI systems disagree, and everyday tools that put people in control of their data. I'm particularly interested in the space where **solid software engineering meets useful AI** — and in how people understand and trust the systems they use.
  
-I care about both halves of building software: the **engineering** that makes a product reliable, and the **research questions** that decide whether it's worth building. I'm most drawn to AI-powered applications and to how people actually interact with AI.
- 
-## ⭐ Flagship: The Tribunal
- 
+## ⭐ Spotlight: The Tribunal
+
+> **What if an AI gave you the arguments, the disagreements, and the reasoning — not just the final answer?**
+
 **An AI courtroom where disagreement is the point.** Four advocates (two for the defense, two for the prosecution) argue a case, three judges rule independently, and a **deterministic rule written in code**, never an extra model call, decides the verdict. Every token, dollar, and second of the deliberation is recorded and inspectable.
  
 ```mermaid
@@ -46,6 +50,7 @@ flowchart LR
 | 💰 [**Cost Manager Pro**](https://github.com/Shlomi-Hazan/cost-manager-pro) · [live](https://cost-manager-pro.vercel.app) | Local-first expense manager with multi-currency tracking, reports, charts, and Excel/PDF export. Started as a university project; I now lead its development. | `React` `Vite` `MUI` `Vitest` |
 | 🌐 [**Botchat**](https://github.com/Shlomi-Hazan/Chat-Bot-) | TCP/IP project combining manual packet analysis with a real-time client-server chat over raw sockets. | `Python` `TCP/IP` `NiceGUI` |
 | 🖼️ [**AI vs. Real Images**](https://github.com/Shlomi-Hazan/AI-vs-Real-Images-ML-Project) | Classifier for AI-generated vs. real images: KNN built from scratch with feature engineering. | `Python` `ML` `Jupyter` |
+| 🔬 [**Attention Is All You Need**](https://github.com/Shlomi-Hazan/attention-is-all-you-need-research) | Presentation, highlights and reflections on the world changing Transformers paper. | `Research` `Transformers` |
  
 ## 🧰 Tech & tools
  
@@ -61,21 +66,29 @@ flowchart LR
 ![LLMs](https://img.shields.io/badge/LLM_Integration-6E40C9?style=flat-square)
  
 <details>
+ 
 <summary><b>📂 More projects (coursework, experiments, earlier work)</b></summary>
 <br/>
 <table>
 <tr><th align="left">Area</th><th align="left">Project</th><th align="left">Description</th></tr>
 <tr><td>🤖 AI</td><td><a href="https://github.com/Shlomi-Hazan/gmail-intelligence">Gmail Intelligence</a></td><td>Privacy-conscious, local-first Gmail analysis and organization</td></tr>
-<tr><td>🔬 Research</td><td><a href="https://github.com/Shlomi-Hazan/attention-is-all-you-need-research">Attention Is All You Need</a></td><td>Presentation highlights and reflections on the Transformer paper</td></tr>
+<tr><td>🔬 Research</td><td><a href="https://github.com/Shlomi-Hazan/ai-disruption-theory-research-reflection">AI Disruption in Theory Research</a></td><td>Personal reflection (English and Hebrew) on an MIT FutureTech preprint</td></tr>
 <tr><td>📈 Finance</td><td><a href="https://github.com/Shlomi-Hazan/value-stock-finder">Value Stock Finder</a></td><td>Educational stock screening and valuation tools</td></tr>
 <tr><td>💰 Finance</td><td><a href="https://github.com/Shlomi-Hazan/cost-manager-front-end">Cost Manager (original)</a></td><td>The front-end course project that Cost Manager Pro grew out of</td></tr>
 <tr><td>🌐 Web</td><td><a href="https://github.com/Shlomi-Hazan/Shlomi-Hazan.github.io">Portfolio Website</a></td><td>Source of my <a href="https://shlomi-hazan.github.io/">personal site</a> (HTML, CSS, JavaScript)</td></tr>
 </table>
+ 
 </details>
+
+## 🔍 How I like to build
+
+I try to treat even small projects like real products: clarify the problem, document decisions, write tests, measure what matters, and make limitations visible. With AI applications especially, I care about **grounding, transparency, cost, and keeping important decisions in deterministic code** whenever possible.
+
+---
+
 <div align="center">
 <br/>
 <b>Always learning. Always building.</b>
 <br/>
 <a href="https://shlomi-hazan.github.io/">Explore my portfolio →</a>
 </div>
- 
