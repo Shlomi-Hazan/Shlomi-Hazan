@@ -11,6 +11,7 @@
 <a href="https://shlomi-hazan.github.io/assets/resume-en.pdf"><img src="https://img.shields.io/badge/Resume-PDF-D93F0B?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=white" alt="Resume" /></a>
 <a href="https://www.linkedin.com/in/shlomi-hazan-in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 </div>
+
 ## 👨‍💻 About
  
 I'm a Computer Science student at **HIT – Holon Institute of Technology**, in the honors program on an accelerated **B.Sc. + M.Sc.** track. Before university I served as a **combat team commander** in the IDF Artillery Corps, which taught me to lead a team and make decisions under pressure.
@@ -36,6 +37,7 @@ flowchart LR
 <a href="https://github.com/Shlomi-Hazan/ase26-the-tribunal"><b>Code</b></a> ·
 <code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>OpenRouter</code>
 </p>
+
 ## 🚀 Featured projects
  
 | Project | What it does | Stack |
